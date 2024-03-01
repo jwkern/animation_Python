@@ -20,15 +20,13 @@ The code uses matplotlib, numpy, and the animation class contained within matplo
 
 ___________________________________________________________________________________________________________________________________________________________________
 RUNNING THE CODE:
-1) Download the python script (animatedPlot.py)
+1) Download the python script (animatedPlot_JWK.py)
  
 2) In a terminal, cd into the directory that now contains the script
 
 3) Run the script by typing the following into the command line:
 
-           python3.8 script.py
-   
-where script.py should be replaced by the name of the downloaded script
+           python3.8 animatedPlot_JWK.py
 ___________________________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
